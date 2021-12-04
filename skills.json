@@ -1,11 +1,4 @@
-{	"Skills to be learned on the course": "Soft and Hard skills",
-	"Hard Skills to be learned on the course": "Умение составлять документацию", "Умение писать баг репорты", "Понимание теории и основы тестирования", "Понимание работы тестирования"
-
-
-
-
-
-
-
-
+{	
+"Skills to be learned on the course": "Soft and Hard skills",
+"Hard Skills to be learned on the course": ["Умение составлять документацию", "Умение писать баг репорты", "Понимание теории и основы тестирования", "Понимание работы тестирования"]
 }
